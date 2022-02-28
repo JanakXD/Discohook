@@ -16,7 +16,10 @@ setup(
     description='A basic Library to send Discord Webhook',
     long_description=README,
     long_description_content_type='text/markdown',
-    url='',
+    url='https://github.com/Janakthegamer/Discohook',
+    project_urls={
+        "Bug Tracker": "https://github.com/Janakthegamer/Discohook/issues",
+    },
     install_requires=[
         'requests>=2.19.1',
     ],
